@@ -1,0 +1,1 @@
+report.exe -f my_temperature_small.csv -s t
